@@ -1,0 +1,44 @@
+---KORISNICKI ZAHTJEVI---
+
+#1 M Omoguciti korisniku (profesoru) kreiranje željenog broja pitanja.
+
+#2 M Omoguciti korisniku (profesoru) izradu anketnih pitanja u bilo koje vrijeme.
+
+#3 M Postaviti ogranicenja za razlicite korisnike, tj. omoguciti da samo profesor može kreirati anketu i da samo student može ispuniti anketu
+
+#4 S Omoguciti korisniku (profesoru) vremensko ogranicenje ankete po želji.
+
+#5 M Omoguciti pracenje stanja bodova za svakog studenta.
+---
+#6 S Omoguciti postavljanje pristupne lozinke za ankete.
+---
+#7 M Omoguciti korisniku (profesoru) da odredi kada ce anketa biti dostupna.
+
+#8 M Omoguciti postavljanje visestrukih/jednostrukih pitanja po zelji korisnika (profesora).
+
+#9 M Omoguciti korisniku (profesoru) da odabere hoce li anketa biti u svrhu evidencije ili provjere znanja.
+
+
+
+---POSLOVNI ZAHTJEV---
+#1 M Napraviti aplikaciju koja ce anketirati studente, tj. pratiti njihove dolaske ili znanje.
+
+
+---FUNKCIONALNI ZAHTJEVI---
+#1 S Omoguæiti da aplikacija samostalno studentima dodjeljuje bodove.
+
+#2 M Postaviti ogranièenja ovisno o tipu korisnika (profesor kreira anketu / student odgovara)
+
+#3 S Izbaciti grešku i tražiti ponovni unos ukoliko se unese kriva kombinacija korisnickog imena i lozinke.
+
+
+---NEFUNKCIONALNI ZAHTJEVI---
+#1 S Napraviti responzivnu stranicu, tj. omoguciti njeno ispravno prikazivanje na razlicitim rezolucijama.
+
+#2 M Onemoguciti korisnicima (studentima) ispunjavanje ankete više puta
+
+#3 S Omoguæiti jednostavno navigiranje po stranici.
+
+#4 M Prilikom pokretanja aplikacije, zatraziti obavezan unos korisnickog imena i lozinke.
+
+----
